@@ -1,0 +1,3 @@
+Zakljuceni taski: 
+- test
+- test2
